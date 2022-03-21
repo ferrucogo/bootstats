@@ -1,1 +1,1 @@
-# Bootstats. Complete guest football analysis web-app.
+# Bootstats. Complete guest view football analysis web-app.
